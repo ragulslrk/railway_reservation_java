@@ -77,7 +77,7 @@ public Login(){
             try {
                 String url = "jdbc:mysql://localhost:3306/railway";
                 String uname = "root";
-                String pass = "#Ragul4444";
+                String pass = "Ragul5656";
                 String query = "select EmpName, EmpId from employee";
 
              Connection con = DriverManager.getConnection(url, uname, pass);
